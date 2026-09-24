@@ -429,7 +429,7 @@ const wishList = [
   },
   {
     text: "Chúc tình yêu của chúng mình luôn tròn đầy như ánh trăng đêm rằm.",
-    img: "./assets/hinh3.jpg",
+    img: "./assets/hinh3.jpeg",
   },
   {
     text: "Chúc em yêu luôn giữ được tâm hồn trong trẻo, yêu đời như ánh trăng rằm.",
@@ -441,7 +441,7 @@ const wishList = [
   },
   {
     text: "Chúc riêng em yêu một đêm trăng thật lãng mạn và ngọt ngào.",
-    img: "./assets/hinh3.jpg",
+    img: "./assets/hinh3.jpeg",
   },
   {
     text: "Sức khỏe dồi dào, tâm an yên, miệng luôn mỉm cười rạng rỡ.",
